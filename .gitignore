@@ -1,0 +1,13 @@
+doz.session
+venv
+.vscode
+__pycache__/
+.vscode/
+.git/
+.venv/
+.env
+config/session.py
+config/settings.py
+venv
+*.session
+*.session_journal
